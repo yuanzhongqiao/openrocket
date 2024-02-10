@@ -12,15 +12,15 @@
 <ol dir="auto">
 <li>
 <p dir="auto"><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用丰富的内置组件选择来
-</font><strong><font style="vertical-align: inherit;">设计您的火箭：</font></strong></font><a target="_blank" rel="noopener noreferrer" href="/openrocket/openrocket/blob/unstable/.github/OpenRocket_home_2D.png"><img src="/openrocket/openrocket/raw/unstable/.github/OpenRocket_home_2D.png" alt="三级火箭 - 2D" style="max-width: 100%;"></a></p>
+</font><strong><font style="vertical-align: inherit;">设计您的火箭：</font></strong></font><a target="_blank" rel="noopener noreferrer" href="https://github.com/openrocket/openrocket/blob/unstable/.github/OpenRocket_home_2D.png"><img src="https://github.com/openrocket/openrocket/raw/unstable/.github/OpenRocket_home_2D.png" alt="三级火箭 - 2D" style="max-width: 100%;"></a></p>
 </li>
 <li>
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以 3D 形式可视化</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的杰作：
-</font></font><a target="_blank" rel="noopener noreferrer" href="/openrocket/openrocket/blob/unstable/.github/OpenRocket_home_3D.png"><img src="/openrocket/openrocket/raw/unstable/.github/OpenRocket_home_3D.png" alt="三级火箭 - 3D" style="max-width: 100%;"></a></p>
+</font></font><a target="_blank" rel="noopener noreferrer" href="https://github.com/openrocket/openrocket/blob/unstable/.github/OpenRocket_home_3D.png"><img src="https://github.com/openrocket/openrocket/raw/unstable/.github/OpenRocket_home_3D.png" alt="三级火箭 - 3D" style="max-width: 100%;"></a></p>
 </li>
 <li>
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">绘制并分析</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的模拟结果以提高精度和改进：
-</font></font><a target="_blank" rel="noopener noreferrer" href="/openrocket/openrocket/blob/unstable/.github/OpenRocket_sim.png"><img src="/openrocket/openrocket/raw/unstable/.github/OpenRocket_sim.png" alt="三级火箭 - 模拟图" style="max-width: 100%;"></a></p>
+</font></font><a target="_blank" rel="noopener noreferrer" href="https://github.com/openrocket/openrocket/blob/unstable/.github/OpenRocket_sim.png"><img src="https://github.com/openrocket/openrocket/raw/unstable/.github/OpenRocket_sim.png" alt="三级火箭 - 模拟图" style="max-width: 100%;"></a></p>
 </li>
 </ol>
 <h2 tabindex="-1" dir="auto"><a id="user-content--features" class="anchor" aria-hidden="true" tabindex="-1" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌟特点</font></font></h2>
